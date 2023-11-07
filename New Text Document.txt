@@ -1,2 +1,3 @@
 // new text files added
-// and edited using Github Editor
+// and edited using Github Editor(Pull fecth merge)
+// edited from our local Git (Push)
